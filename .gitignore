@@ -3,5 +3,5 @@
 *.ipynb_checkpoints
 *.pdf
 *.csv
-*.xslx
+*.xlsx
 __pycache__/
